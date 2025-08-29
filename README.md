@@ -36,5 +36,5 @@ Database (Optional): MongoDB / SQL
 │   └── App.tsx       # Main App file
 ├── public/           # Static files
 ├── package.json      # Dependencies & scripts
-└── README.md         # Project documentation
+└── README.md         # Project documentations
 
