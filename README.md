@@ -38,24 +38,3 @@ Database (Optional): MongoDB / SQL
 ├── package.json      # Dependencies & scripts
 └── README.md         # Project documentation
 
-⚙️ Installation & Setup
-
-Clone the repo
-
-git clone https://github.com/infinity18/StyleTrader-Fashion-E-Commerce-Platform.git
-cd StyleTrader-Fashion-E-Commerce-Platform
-
-
-Install dependencies
-
-npm install
-
-
-Run development server
-
-npm run dev
-
-
-Build for production
-
-npm run build
